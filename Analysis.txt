@@ -1,0 +1,9 @@
+Let’s create a Cat Loading Animation using HTML and CSS! 🐱⏳
+This fun and eye-catching project adds personality to your website’s loading screen with a cute animated cat that loops smoothly.
+
+
+We’ll use:
+
+HTML to structure the cat and loader elements.
+CSS to  animate the cat’s movement, blinking eyes, wagging tail, or bouncing effect.
+Whether you’re learning or just having fun, this project is a playful way to understand animation timing, keyframes, and creative CSS design.
